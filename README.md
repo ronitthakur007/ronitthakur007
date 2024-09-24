@@ -1,7 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ronit Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp")
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="ronitthakur007" /> </p>
 
